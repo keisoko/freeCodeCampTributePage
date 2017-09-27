@@ -4,4 +4,4 @@ My first freeCodeCamp project.
 
 This is the Russian author Mikhail Bulgakov tribute page, created as a project for the freeCodeCamp.
 
-I love anime and sci-fi and fantasy audiobooks. 
+I am still learning. I love anime and sci-fi and fantasy audiobooks. 
