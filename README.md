@@ -13,11 +13,6 @@ The direction of the project are as follows:
     User Story: I can view a tribute page with an image and text.
     
     User Story: I can click on a link that will take me to an external website with further information on the topic.
-    
-    Remember to use Read-Search-Ask if you get stuck.
-    
-    When you are finished, click the "I've completed this challenge" button and include a link to your CodePen.
-    
-    You can get feedback on your project by sharing it with your friends on Facebook.
+   
 
 I am still learning. I love anime and sci-fi and fantasy audiobooks. 
