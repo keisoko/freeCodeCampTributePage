@@ -10,6 +10,7 @@ ul li {
   font-family: Raleway, sans-serif;
   line-height: 1.7em;
   padding: 5px 0px;
+  list-style: square;
 }
 
 blockquote {
