@@ -13,6 +13,11 @@ ul li {
   list-style: square;
 }
 
+em {
+  font-weight: 500;
+  font-family: 'Roboto', sans-serif;
+}
+
 blockquote {
   border: 2px dashed #AC6060;
   border-radius: 10px;
