@@ -1,4 +1,4 @@
 theme: jekyll-theme-tactile
-permalink: _site/index.html
-permalink: _site/freecodecamp_project.css
+permalink: index.html
+permalink: freecodecamp_project.css
 highlighter: rouge
